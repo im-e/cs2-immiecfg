@@ -11,6 +11,8 @@ A simple and customisable config for cs2.
 
 > [!WARNING]
 > When executing immiecfg/binds it will: unbind all your binds, then overwrite your local config (steam/userdata) using host_writeconfig, making your old binds toast.
+
+
 I'd reccomend making a copy, change to your current binds and then execute whenever you need updating them.
 Having your own bind cfg is nice if you change/switch pcs or accounts, or in case you lose all your steam data/windows reinstall.
 
