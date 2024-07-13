@@ -24,5 +24,3 @@ Having your own bind cfg is nice if you change/switch pcs or accounts, or in cas
 4. Open up CS2 and the autoexec will have ran.
 
 You can also type 'exec autoexec' in the console, and the cat banner should show.
-
-Last updated: 15/06/24
